@@ -1,3 +1,3 @@
 # SML
-&emsp; Something about SML homework and experienment  
-&emsp; Something about my data structure course
+&emsp; Parallel Data Structures And Algorithms
+&emsp; Solutions for homework and experiment
